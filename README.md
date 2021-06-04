@@ -1,7 +1,7 @@
 ### Hi there! I'm Gustavo! 🤙
 
-I'm a Full-Stack Web developer and entrepreneur. I'm currently based in Rio. <br/>
-I'm co-founder and CTO of onSERP Marketing, a company specialized in SEO and performance on the Web.<br/>
+I'm a <strong>Full-Stack Web developer</strong> and <strong>entrepreneur</strong>. I'm currently based in Rio. <br/>
+I'm co-founder and CTO of <a href="https://onserp.com.br">onSERP Marketing</a>, a company specialized in SEO and performance on the Web.<br/>
 We can help you rank faster on Google!<br/>
 
 I'm also a big fan of Wordpress and Gatsby, and I really like to mix both.
